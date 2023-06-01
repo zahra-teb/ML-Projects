@@ -1,2 +1,2 @@
 # ML-Projects
-Some of mu ML course projects.
+Some of my ML course projects.
