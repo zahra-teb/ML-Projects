@@ -1,1 +1,1 @@
-Classification via various models and EDA on the data set.
+EDA on the data set and classification via various models.
